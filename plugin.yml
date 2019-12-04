@@ -1,0 +1,7 @@
+name: Template
+author: Vewo
+main: me.vewo.template.Main
+
+commands:
+ basic:
+  description: basic command
